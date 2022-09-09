@@ -6,6 +6,6 @@ Currently I'm a senior majoring in computer science at The City College of New Y
 
 
 ### Support or Contact
-**Email: ** hussammarzooq21@gmail.com
+**Email:** hussammarzooq21@gmail.com
 
-**LinkedIn: ** https://www.linkedin.com/in/hussam-m/
+**LinkedIn:** https://www.linkedin.com/in/hussam-m/
