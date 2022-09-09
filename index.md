@@ -12,8 +12,11 @@ Currently I'm a senior majoring in computer science at The City College of New Y
 
 ## Past Work
 
-- CTP Hackathon
- My team and I built a simple JavaScript game and won the Best Front End category. Feel free to check it out [here](https://devpost.com/software/giga-joe).
+- CTP Hackathon:
+
+ My team and I built a simple JavaScript game and won the Best Front End category.
+ 
+ Feel free to check it out [here](https://devpost.com/software/giga-joe).
 
 
 
