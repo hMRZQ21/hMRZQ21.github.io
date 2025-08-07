@@ -1,38 +1,71 @@
-## Hello There!
+# Hussam Marzooq's Portfolio
 
-My name is Hussam Marzooq and I'm an aspiring Data Scientist.
+![Portrait photo](/assets/Hussam_Portrait.jpg){: style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; display: block; margin: 0 auto;" }
 
-Currently I'm a senior majoring in computer science at The City College of New York, expecting graduation in December 2023. 
+Quick links:
 
-## Skills
+- [Socials / Linktree](https://linktr.ee/Hussam_x)
+- [Resume](#resume)
+- [Projects](#projects)
+- [Contact](#contact)
 
-**Languages:** Python, HTML, CSS, JavaScript, C/C++, Java
+---
 
-**Technologies & Databases:** VScode, Git/GitHub, Google Colaboratory, SQLite, MySQL
+## About
 
-**Libraries:** Pandas, Numpy, Flask
+I’m a software engineer who enjoys building clean, user‑friendly products and solving data‑heavy problems. 
 
-## Past Work
+- What I’m into: web apps, data, automation, and thoughtful UI.
+- Fun fact: I like building PCs and playing with Raspberry Pi’s. I enjoy cooking, gaming (streaming too), and working out.
 
-- CTP Hackathon:
+---
 
-     My very first Hackathon experience. My team and I built a simple JavaScript game and won the Best Front End category.
- 
-     Feel free to check it out [here](https://devpost.com/software/giga-joe).
+<!-- ## Skills
 
-- Denisse’s Café:
+- Languages: add your core languages here
+- Frameworks: add your favorite frameworks here
+- Tools: list cloud, CI/CD, testing, and databases
 
-     Fictional restaurant and delivery system web application for a school project. 
+---
 
-     Desgined the majority of the backend using Python's Flask and SQLite3.
+## Projects
 
-     Our [repo](https://github.com/raynelfss/csc-322-proj).
+- Project Name — one‑liner about what it does and why it’s cool. [Repo](/) · [Demo](/)
+- Project Name — quick value prop, tech used, and link. [Repo](/) · [Demo](/)
 
-### Project Ideas
+---
 
-(work in progress)
+## Experience
 
-### Contact
-**Email:** hussammarzooq21@gmail.com
+- Company — Role (Dates)
+  - Impact bullet describing measurable outcome
+  - Impact bullet describing what you owned -->
 
-**[LinkedIn](https://www.linkedin.com/in/hussam-m/)** 
+---
+
+## Education
+
+- CUNY City College — B.S. in Computer Science (May 2024) 
+
+---
+
+## Resume
+
+Below is an embedded view. If it doesn’t load, use the direct link.
+
+<iframe
+  src="https://www.overleaf.com/project/64fb53e4655d64014be28d35/detached"
+  width="100%"
+  height="880"
+  style="border:1px solid #e5e7eb;border-radius:10px;"
+  loading="lazy"
+></iframe>
+
+[Open in Overleaf](https://www.overleaf.com/project/64fb53e4655d64014be28d35/detached)
+
+---
+
+## Contact Me
+
+- **Email:** [hussammarzooq21@gmail.com](mailto:hussammarzooq21@gmail.com)
+- **Socials:** [Linktree](https://linktr.ee/Hussam_x)
